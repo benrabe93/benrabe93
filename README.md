@@ -1,4 +1,4 @@
-# Hi, I’m Ben Rabe
+# Hi, I’m Ben
 - 👀 I’m interested in Machine Learning and Data Science.
 - :desktop_computer: I've been coding for more than 10 years, mostly in Python and Julia.
 - :mortar_board: As a doctoral researcher, I have applied Machine Learning methods to the field of atomic and molecular physics.
