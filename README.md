@@ -1,7 +1,7 @@
-# Hi, I’m Ben
-- 👀 I’m interested in Machine Learning and Data Science.
+# Hi, I’m Ben :wave:
+- :surfer: I’m passionate about Machine Learning and Data Science.
 - :desktop_computer: I have over 10 years of experience in scientific coding, primarily utilizing Python and Julia.
-- :mortar_board: As a doctoral researcher, I have applied Machine Learning methods to the field of atomic and molecular physics.
+- :mortar_board: As a doctoral candidate in physics, I have applied Machine Learning methods to the field of atomic and molecular physics.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ben-rabe).
 - ⚡ Fun fact: Bananas are technically berries, while strawberries aren't.
 
